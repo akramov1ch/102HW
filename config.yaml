@@ -1,0 +1,4 @@
+database:
+  user: yaml_user
+  password: yaml_password
+  dbname: yaml_db

@@ -1,0 +1,7 @@
+{
+    "database": {
+        "user": "json_user",
+        "password": "json_password",
+        "dbname": "json_db"
+    }
+}
